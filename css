@@ -1,0 +1,90 @@
+﻿@font-face {
+  font-family: 'Muli';
+  font-style: italic;
+  font-weight: 400;
+  src: url(s/muli/v29/7Aujp_0qiz-afTfcIyoiGtm2P0wG05Fz4eSVxg.ttf) format('truetype');
+}
+@font-face {
+  font-family: 'Muli';
+  font-style: italic;
+  font-weight: 600;
+  src: url(s/muli/v29/7Aujp_0qiz-afTfcIyoiGtm2P0wG00904eSVxg.ttf) format('truetype');
+}
+@font-face {
+  font-family: 'Muli';
+  font-style: italic;
+  font-weight: 700;
+  src: url(s/muli/v29/7Aujp_0qiz-afTfcIyoiGtm2P0wG03Z04eSVxg.ttf) format('truetype');
+}
+@font-face {
+  font-family: 'Muli';
+  font-style: italic;
+  font-weight: 800;
+  src: url(s/muli/v29/7Aujp_0qiz-afTfcIyoiGtm2P0wG0xF04eSVxg.ttf) format('truetype');
+}
+@font-face {
+  font-family: 'Muli';
+  font-style: normal;
+  font-weight: 400;
+  src: url(s/muli/v29/7Aulp_0qiz-aVz7u3PJLcUMYOFnOkEk50e0.ttf) format('truetype');
+}
+@font-face {
+  font-family: 'Muli';
+  font-style: normal;
+  font-weight: 600;
+  src: url(s/muli/v29/7Aulp_0qiz-aVz7u3PJLcUMYOFkQl0k50e0.ttf) format('truetype');
+}
+@font-face {
+  font-family: 'Muli';
+  font-style: normal;
+  font-weight: 700;
+  src: url(s/muli/v29/7Aulp_0qiz-aVz7u3PJLcUMYOFkpl0k50e0.ttf) format('truetype');
+}
+@font-face {
+  font-family: 'Muli';
+  font-style: normal;
+  font-weight: 800;
+  src: url(s/muli/v29/7Aulp_0qiz-aVz7u3PJLcUMYOFlOl0k50e0.ttf) format('truetype');
+}
+@font-face {
+  font-family: 'Roboto';
+  font-style: italic;
+  font-weight: 400;
+  font-stretch: normal;
+  src: url(s/roboto/v47/KFOKCnqEu92Fr1Mu53ZEC9_Vu3r1gIhOszmOClHrs6ljXfMMLoHQuAb-lg.ttf) format('truetype');
+}
+@font-face {
+  font-family: 'Roboto';
+  font-style: italic;
+  font-weight: 500;
+  font-stretch: normal;
+  src: url(s/roboto/v47/KFOKCnqEu92Fr1Mu53ZEC9_Vu3r1gIhOszmOClHrs6ljXfMMLrPQuAb-lg.ttf) format('truetype');
+}
+@font-face {
+  font-family: 'Roboto';
+  font-style: italic;
+  font-weight: 700;
+  font-stretch: normal;
+  src: url(s/roboto/v47/KFOKCnqEu92Fr1Mu53ZEC9_Vu3r1gIhOszmOClHrs6ljXfMMLmbXuAb-lg.ttf) format('truetype');
+}
+@font-face {
+  font-family: 'Roboto';
+  font-style: normal;
+  font-weight: 400;
+  font-stretch: normal;
+  src: url(s/roboto/v47/KFOMCnqEu92Fr1ME7kSn66aGLdTylUAMQXC89YmC2DPNWubEbVmaiA8.ttf) format('truetype');
+}
+@font-face {
+  font-family: 'Roboto';
+  font-style: normal;
+  font-weight: 500;
+  font-stretch: normal;
+  src: url(s/roboto/v47/KFOMCnqEu92Fr1ME7kSn66aGLdTylUAMQXC89YmC2DPNWub2bVmaiA8.ttf) format('truetype');
+}
+@font-face {
+  font-family: 'Roboto';
+  font-style: normal;
+  font-weight: 700;
+  font-stretch: normal;
+  src: url(s/roboto/v47/KFOMCnqEu92Fr1ME7kSn66aGLdTylUAMQXC89YmC2DPNWuYjalmaiA8.ttf) format('truetype');
+}
